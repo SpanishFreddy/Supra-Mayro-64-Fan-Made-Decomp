@@ -1,5 +1,5 @@
 # Supra Mayro 64 (Fan Made) Decomp
-A decompilation of Supra Mayro 64 (Fan Made) , original game: https://gusvenga.itch.io/supra-mayro-64-fan-made
+A decompilation of Supra Mayro 64 (Fan Made), original game: https://gusvenga.itch.io/supra-mayro-64-fan-made
 
 ![ALEsga](https://github.com/SpanishFreddy/Supra-Mayro-64-Fan-Made-Decomp/assets/121837347/9285fea8-0825-4ec3-8c1d-59699920d2c7)
 

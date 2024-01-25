@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - MayroStar
+  - Enemy
+  - Pingu Slider
+  - Player_WithWingCap
+  - BOOSER_UUUUUUU
+  - PickUp
+  - Pick Up
+  - Perceiver
+  - Buli
+  - GameManager
+  - Ball
+  - FollowBall
+  - Mathstar
+  - NPCMAYRO
+  - Star
+  - Trigger
+  - RedCoin
+  - BlueCoin
+  - Player_MP
+  - Water
+  - luggy
+  - Car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
